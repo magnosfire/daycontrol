@@ -1,6 +1,9 @@
 body{
 	margin:0 auto;
 }
+html{
+	margin:0 auto;
+}
 
 .header{
 	background-color:black;
