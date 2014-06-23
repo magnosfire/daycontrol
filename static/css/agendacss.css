@@ -149,6 +149,10 @@ html{
 	  	width: 100%;
 	  	text-indent: 25px;
   	}
+	
+	.content-right{
+	background-color:yellow;
+	}
 }
 
 /*Styles for screen 515px and lower*/
@@ -176,6 +180,9 @@ html{
 		right: 15px;
 		top: 10px;
 	}
+	.content-right{
+	background-color:red;
+	}
 }
 
 /*Smartphone*/
@@ -187,5 +194,8 @@ html{
 	}
 	nav li a {
 		border-bottom: 1px solid #576979;
+	}
+	.content-right{
+	background-color:white;
 	}
 }
