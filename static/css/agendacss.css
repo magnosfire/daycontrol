@@ -1,6 +1,14 @@
 body{
 	margin:0 auto;
+	clear:both;
 }
+* {
+	margin:0;
+	list-style:none;
+	vertical-align:baseline;
+	padding:0 auto;
+}
+
 html{
 	margin:0 auto;
 }
@@ -11,4 +19,20 @@ html{
 	height:50px;
 	position: relative;
 	margin: 0 auto;
+}
+
+.menu-left{
+	width:20%;
+	height:80%;
+	background-color:blue;
+	position:relative;
+	float:left;
+}
+
+.content-right{
+	margin-left:20%;
+	height:80%;
+	background-color:green;
+	position:relative;
+	width:80%;
 }
