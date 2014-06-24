@@ -9,6 +9,16 @@ body{
 	padding:0 auto;
 }
 
+html{
+	font-size: 62.5%;
+}
+
+p{
+	font-size: 1.6em;
+	max-width: 480px;
+	line-height:140%;
+}
+
 /* Clearfix */
 .clearfix:before,
 .clearfix:after {
