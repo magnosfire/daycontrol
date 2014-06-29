@@ -68,13 +68,13 @@ nav a#pull {
 }
 
 .number{
-	font-size:40px;
+	font-size:30px;
 	color:white;
 	font-weight:800;
 }
 
 .title-square{
-	font-size:30px;
+	font-size:25px;
 	color:white;
 	font-weight:800;
 	margin-top:3%;
@@ -86,7 +86,7 @@ nav a#pull {
 }
 
 .title-table{
-	font-size:30px;
+	font-size:25px;
 	color:white;
 	font-weight:500;
 }
