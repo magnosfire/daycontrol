@@ -19,11 +19,11 @@ h1{
 }
 
 .img-square{
-	margin-top:5%%;
+	margin-top:3%;
 }
 
 .img-square-double{
-	margin-top:5%;
+	margin-top:3%;
 }
 
 .clearfix:before,
@@ -68,25 +68,25 @@ nav a#pull {
 }
 
 .number{
-	font-size:50px;
+	font-size:40px;
 	color:white;
 	font-weight:800;
 }
 
 .title-square{
-	font-size:50px;
+	font-size:30px;
 	color:white;
 	font-weight:800;
-	margin-top:5%;
+	margin-top:3%;
 }
 
 .size-table{
 	width:100%;
-	margin-top:5%;
+	margin-top:3%;
 }
 
 .title-table{
-	font-size:40px;
+	font-size:30px;
 	color:white;
 	font-weight:500;
 }
