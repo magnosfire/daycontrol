@@ -18,7 +18,11 @@ h1{
 	color:white;
 }
 
-img{
+.img-square{
+	margin-top:15%;
+}
+
+.img-square-double{
 	margin-top:5%;
 }
 
@@ -133,7 +137,7 @@ nav a#pull {
 
 .div-square{
 	width:19%;
-	height:42%;
+	height:45%;
 	background-color:purple;	
 	float:left;
 	margin-top: 0.5%;
@@ -142,7 +146,7 @@ nav a#pull {
 
 .div-square-double{
 	width:38.5%;
-	height:42%;
+	height:45%;
 	background-color:orange;	
 	float:left;
 	margin-top: 0.5%;
