@@ -64,7 +64,7 @@ body{
 
 .div-square{
 	width:19%;
-	height:30%;
+	height:42%;
 	background-color:purple;	
 	float:left;
 	margin-top: 0.5%;
@@ -73,7 +73,7 @@ body{
 
 .div-square-double{
 	width:38.5%;
-	height:30%;
+	height:370px;
 	background-color:orange;	
 	float:left;
 	margin-top: 0.5%;
