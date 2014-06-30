@@ -52,13 +52,13 @@ body{
 }
 
 .number{
-	font-size:30px;
+	font-size:20px;
 	color:white;
 	font-weight:800;
 }
 
 .title-square{
-	font-size:25px;
+	font-size:16px;
 	color:white;
 	font-weight:800;
 	margin-top:3%;
@@ -70,4 +70,9 @@ body{
 
 .img-square-double{
 	margin-top:5%;
+}
+
+/* Somente para Chrome e Safari */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+ .classeExemplo { color: #000; }
 }
