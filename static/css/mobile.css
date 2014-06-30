@@ -21,3 +21,12 @@ body{
 	position:absolute;
 	display:table;
 }
+
+.div-square{
+	margin-left:5%;
+	width:45%;
+	background-color:red;
+	float:left;
+	height:45%;
+	margin-top:5%;
+}
