@@ -27,7 +27,7 @@ body{
 	width:42%;
 	background-color:red;
 	float:left;
-	height:45%;
+	height:35%;
 	margin-top:5%;
 }
 
@@ -55,4 +55,8 @@ body{
 
 .img-square{
 	margin-top:25%;
+}
+
+.img-square-double{
+	margin-top:15%;
 }
