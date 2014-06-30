@@ -29,6 +29,7 @@ body{
 	float:left;
 	height:35%;
 	margin-top:5%;
+	position:absolute;
 }
 
 .div-square-double{
@@ -38,6 +39,7 @@ body{
 	float:left;
 	height:45%;
 	margin-top:5%;
+	position:absolute;
 }
 
 .size-table{
