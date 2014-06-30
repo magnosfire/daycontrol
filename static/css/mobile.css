@@ -27,7 +27,7 @@ body{
 	width:42%;
 	background-color:red;
 	float:left;
-	height:35%;
+	height:30%;
 	margin-top:5%;
 }
 
@@ -36,7 +36,7 @@ body{
 	width:89%;
 	background-color:pink;
 	float:left;
-	height:45%;
+	height:40%;
 	margin-top:5%;
 }
 
@@ -69,5 +69,5 @@ body{
 }
 
 .img-square-double{
-	margin-top:5%;
+	margin-top:15%;
 }
