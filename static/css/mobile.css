@@ -40,6 +40,17 @@ body{
 	margin-top:5%;
 }
 
+.size-table{
+	width:100%;
+	margin-top:3%;
+}
+
+.title-table{
+	font-size:25px;
+	color:white;
+	font-weight:500;
+}
+
 .number{
 	font-size:30px;
 	color:white;
