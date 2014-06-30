@@ -65,9 +65,11 @@ body{
 }
 
 .img-square{
-	margin-top:25%;
+	margin:0 auto;
+	margin-top:5%;
 }
 
 .img-square-double{
-	margin-top:15%;
+	margin:0 auto;
+	margin-top:5%;
 }
