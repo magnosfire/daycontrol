@@ -104,16 +104,125 @@ h1{
 .div-square{
 	width:19%;
 	height:42%;
-	background-color:purple;	
+	background-color:#FF473D;	
 	float:left;
 	margin-top: 0.5%;
 	margin-left: 0.5%;
 }
 
+.div-square:hover{
+	background-color:#FF554B;
+}
+
+.div-square1{
+	width:19%;
+	height:42%;
+	background-color:#CD3700;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square1:hover{
+	background-color:#EE4000;
+}
+
+.div-square2{
+	width:19%;
+	height:42%;
+	background-color:#00008B;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square2:hover{
+	background-color:#0000CD;
+}
+
+.div-square3{
+	width:19%;
+	height:42%;
+	background-color:#1E90FF;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square3:hover{
+	background-color:#1C86EE;
+}
+
+.div-square4{
+	width:19%;
+	height:42%;
+	background-color:#398897;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square4:hover{
+	background-color:#4A92A1;
+}
+
+.div-square5{
+	width:19%;
+	height:42%;
+	background-color:#00B6CE;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square5:hover{
+	background-color:#3FBDD6;
+}
+
+.div-square6{
+	width:19%;
+	height:42%;
+	background-color:#FF473D;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square6:hover{
+	background-color:#FF554B;
+}
+
 .div-square-double{
 	width:38.5%;
 	height:42%;
-	background-color:orange;	
+	background-color:#CD2626;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square-double:hover{
+	width:38.5%;
+	height:42%;
+	background-color:#EE2C2C;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square-double1{
+	width:38.5%;
+	height:42%;
+	background-color:#9F79EE;	
+	float:left;
+	margin-top: 0.5%;
+	margin-left: 0.5%;
+}
+
+.div-square-double1:hover{
+	width:38.5%;
+	height:42%;
+	background-color:#8968CD;	
 	float:left;
 	margin-top: 0.5%;
 	margin-left: 0.5%;
