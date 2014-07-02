@@ -19,7 +19,7 @@ h1{
 }
 
 .img-square{
-	margin-top:20%;
+	margin-top:10%;
 }
 
 .img-square-double{
@@ -33,6 +33,13 @@ h1{
 }
 
 .title-square{
+	font-size:25px;
+	color:white;
+	font-weight:800;
+	margin-top:6%;
+}
+
+.title-square-table{
 	font-size:25px;
 	color:white;
 	font-weight:800;
