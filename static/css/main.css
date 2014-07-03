@@ -117,11 +117,11 @@ h1{
 .div-square1{
 	width:19%;
 	height:42%;
-	background-color:#CD3700;	
+	background-color:#5AA21B;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #CD3700;
+	border: 3px solid #5AA21B;
 }
 
 .div-square1:hover{
@@ -132,11 +132,11 @@ h1{
 .div-square2{
 	width:19%;
 	height:42%;
-	background-color:#00008B;	
+	background-color:black;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #00008B;
+	border: 3px solid black;
 }
 
 .div-square2:hover{
@@ -147,11 +147,11 @@ h1{
 .div-square3{
 	width:19%;
 	height:42%;
-	background-color:#1E90FF;	
+	background-color:#E15959;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #1E90FF;
+	border: 3px solid #E15959;
 }
 
 .div-square3:hover{
@@ -162,11 +162,11 @@ h1{
 .div-square4{
 	width:19%;
 	height:42%;
-	background-color:#398897;	
+	background-color:#B84DCF;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #398897;
+	border: 3px solid #B84DCF;
 }
 
 .div-square4:hover{
@@ -177,11 +177,11 @@ h1{
 .div-square5{
 	width:19%;
 	height:42%;
-	background-color:#00B6CE;	
+	background-color:#FFB400;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #00B6CE;
+	border: 3px solid #FFB400;
 }
 
 .div-square5:hover{
@@ -192,11 +192,11 @@ h1{
 .div-square6{
 	width:19%;
 	height:42%;
-	background-color:#FF473D;	
+	background-color:#273F55;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #FF473D;
+	border: 3px solid #273F55;
 }
 
 .div-square6:hover{
@@ -207,11 +207,11 @@ h1{
 .div-square-double{
 	width:38.5%;
 	height:42%;
-	background-color:#CD2626;	
+	background-color:#9009AD;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #CD2626;
+	border: 3px solid #9009AD;
 }
 
 .div-square-double:hover{
@@ -222,11 +222,11 @@ h1{
 .div-square-double1{
 	width:38.5%;
 	height:42%;
-	background-color:#9F79EE;	
+	background-color:#FF0000;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #9F79EE;
+	border: 3px solid #FF0000;
 }
 
 .div-square-double1:hover{
