@@ -117,15 +117,14 @@ h1{
 .div-square1{
 	width:19%;
 	height:42%;
-	background-color:#5AA21B;	
+	background-color:#009D00;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #5AA21B;
+	border: 3px solid #009D00;
 }
 
 .div-square1:hover{
-	background-color:#EE4000;
 	border: 3px solid white;
 }
 
@@ -140,22 +139,20 @@ h1{
 }
 
 .div-square2:hover{
-	background-color:#0000CD;
 	border: 3px solid white;
 }
 
 .div-square3{
 	width:19%;
 	height:42%;
-	background-color:#E15959;	
+	background-color:#20C0F2;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #E15959;
+	border: 3px solid #20C0F2;
 }
 
 .div-square3:hover{
-	background-color:#1C86EE;
 	border: 3px solid white;
 }
 
@@ -170,22 +167,20 @@ h1{
 }
 
 .div-square4:hover{
-	background-color:#4A92A1;
 	border: 3px solid white;
 }
 
 .div-square5{
 	width:19%;
 	height:42%;
-	background-color:#FFB400;	
+	background-color:#DB552D;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #FFB400;
+	border: 3px solid #DB552D;
 }
 
 .div-square5:hover{
-	background-color:#3FBDD6;
 	border: 3px solid white;
 }
 
@@ -200,7 +195,6 @@ h1{
 }
 
 .div-square6:hover{
-	background-color:#FF554B;
 	border: 3px solid white;
 }
 
@@ -215,22 +209,20 @@ h1{
 }
 
 .div-square-double:hover{
-	background-color:#EE2C2C;	
 	border: 3px solid white;
 }
 
 .div-square-double1{
 	width:38.5%;
 	height:42%;
-	background-color:#FF0000;	
+	background-color:#2D8AEF;	
 	float:left;
 	margin-top: 0.6%;
 	margin-left: 0.6%;
-	border: 3px solid #FF0000;
+	border: 3px solid #2D8AEF;
 }
 
 .div-square-double1:hover{
-	background-color:#8968CD;
 	border: 3px solid white;	
 }
 
