@@ -8,7 +8,7 @@
 body{
 	margin:0 auto;
 	clear:both;
-	text-align:center;
+	
 	font-size:16px;
 }
 
@@ -25,6 +25,7 @@ html{
 }
 
 .menu-left{
+	text-align:center;
 	width:8%;
 	height:100%;
 	background-color:#303077;
@@ -70,4 +71,17 @@ html{
 	position:relative;
 	background-color:white;
 	border-bottom:#E0E4E8 1px solid;
+}
+
+.table-collumn-name{
+	width:5%;
+	height:2%;
+	margin-left:-1px;
+}
+
+.table-class{
+	margin:0;
+	display:table;
+	width:100%;
+	float:left;
 }
