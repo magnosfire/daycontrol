@@ -28,7 +28,7 @@ html{
 	text-align:center;
 	width:8%;
 	height:100%;
-	background-color:#303077;
+	background-color:#2C3039;
 	float:left;
 }
 
@@ -42,26 +42,29 @@ html{
 .menu-button{
 	width:100%;
 	height:5%;
-	background-color:#303077;
+	background-color:#2C3039;
 	position:relative;
 	float:left;
-	border-bottom: #11AAD9 1px solid;
-	color:#EBEFF0;
+	border-bottom: #2A2E36 1px solid;
+	border-top: #363A42 1px solid;
+	color:#7D869B;
+	
 }
 
 .menu-button:hover{
-	background-color:#20C0F2;
+	background-color:#292C35;
 	color:white;
 }
 
 .menu-header{
 	width:100%;
 	height:5%;
-	background-color:#303077;
+	background-color:#292C35	;
 	position:relative;
-	border-bottom: #11AAD9 1px solid;
+	border-bottom: #2A2E36 1px solid;
+	border-top: #363A42 1px solid;
 	float:left;
-	color:#F3F8F9;
+	color:#7D869B;
 }
 
 .div-content-header{
@@ -71,17 +74,4 @@ html{
 	position:relative;
 	background-color:white;
 	border-bottom:#E0E4E8 1px solid;
-}
-
-.table-collumn-name{
-	width:5%;
-	height:2%;
-	margin-left:-1px;
-}
-
-.table-class{
-	margin:0;
-	display:table;
-	width:100%;
-	float:left;
 }
