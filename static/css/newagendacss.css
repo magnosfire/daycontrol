@@ -77,9 +77,13 @@ html{
 	text-align:center;
 }
 
-#table{
-	width:90%;
-	margin-left:5%;
+#size-textbox{
+	width:50%;
+	margin-left:20%;
+}
+
+.form-label{
+	margin-left:20%;
 }
 
 @-moz-document url-prefix() { 

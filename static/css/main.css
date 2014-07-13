@@ -107,7 +107,7 @@ h1{
 }
 
 .div-square{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#FF473D;	
 	float:left;
@@ -120,7 +120,7 @@ h1{
 }
 
 .div-square1{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#009D00;	
 	float:left;
@@ -134,7 +134,7 @@ h1{
 }
 
 .div-square2{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:black;	
 	float:left;
@@ -148,7 +148,7 @@ h1{
 }
 
 .div-square3{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#20C0F2;	
 	float:left;
@@ -162,7 +162,7 @@ h1{
 }
 
 .div-square4{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#B84DCF;	
 	float:left;
@@ -176,7 +176,7 @@ h1{
 }
 
 .div-square5{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#DB552D;	
 	float:left;
@@ -190,7 +190,7 @@ h1{
 }
 
 .div-square6{
-	width:19%;
+	width:18%;
 	height:42%;
 	background-color:#273F55;	
 	float:left;
@@ -204,7 +204,7 @@ h1{
 }
 
 .div-square-double{
-	width:38.5%;
+	width:36.5%;
 	height:42%;
 	background-color:#9009AD;	
 	float:left;
@@ -218,7 +218,7 @@ h1{
 }
 
 .div-square-double1{
-	width:38.5%;
+	width:36.5%;
 	height:42%;
 	background-color:#2D8AEF;	
 	float:left;
@@ -232,5 +232,24 @@ h1{
 }
 
 
+@-moz-document url-prefix() { 
+	.div-background{
+		width:100%;
+		height:100%;
+		background-color:black;
+		position:absolute;
+		display:table;
+	}
 
+	
+	.div-content-content{
+		width:90%;
+		height:90%;
+		float:left;
+		position:absolute;
+		background-color:black;
+		margin-left:5%;
+		margin-top:5%;
+	}
+}
 
