@@ -1,0 +1,67 @@
+* {
+	margin:0;
+	list-style:none;
+	vertical-align:baseline;
+	padding:0 auto;
+}
+
+body{
+	margin:0 auto;
+	clear:both;
+	text-align:center;
+	background-color:black;
+	font-size:16px;
+	display: block;
+	font-family: "Segoe UI Light","Segoe","Segoe UI","Helvetica Neue",sans-serif;
+}
+
+.div-body{
+	display: block;
+	background-color:black;
+	width:100%;
+	height:1300px;
+	font-size:16pt;
+	line-height: 1.6;
+	text-align:justify;
+}
+
+.div-content-header{
+	background-color:#e1e1e1;
+	width:100%;
+	height:5%;
+
+}
+
+.div-content-info-image{
+	background-color:#b2b1b3;
+	width:100%;
+	height:37.5%;
+}
+
+.div-content-info{
+	background-color:white;
+	width:100%;
+	min-height: 500px;
+	
+}
+
+.div-footer{
+	background-color:blue;
+	width:100%;
+	height:20%;
+
+}
+
+.div-content-blocks{
+	margin-left:20%;
+}
+.div-info-block{
+	background-color:#e2e2e2;
+	display: inline-block;
+	width:300px;
+	margin-left:5%;
+	min-height: 400px;
+	max-height: 400px;
+	overflow:hidden;
+	margin-top:3%;
+}
