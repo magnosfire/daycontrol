@@ -15,6 +15,16 @@ body{
 	font-family: "Segoe UI Light","Segoe","Segoe UI","Helvetica Neue",sans-serif;
 }
 
+.div-body{
+	display: block;
+	background-color:white;
+	width:100%;
+	height:100%;
+	font-size:16pt;
+	line-height: 1.6;
+	text-align:justify;
+}
+
 .div-header{
 	width:100%;
 	height:7%;
@@ -23,12 +33,78 @@ body{
 
 .div-content{
 	width:100%;
-	height:83%;
-	background-color:#e1e1e1;
+	height:85%;
+	background-color:white;
+	display:inline-block;
+}
+
+.div-content-image{
+	background-color:#e5e5e5;
+	width:40%;
+	height:100%;
+	float:left;
+	margin-left:10%;
+}
+
+.div-content-content{
+	background-color:white;
+	width:30%;
+	height:100%;
+	float:left;
+	margin-left:10%;
 }
 
 .div-footer{
 	width:100%;
-	height:10%;
-	background-color:blue;
+	height:8%;
+	background-color:white;
+	text-align:center;
+}
+
+.div-content-form{
+	margin-left:10%;
+	margin-top:20%;
+	width:80%;
+	height:70%;
+	background-color:white;
+	
+}
+
+.div-form{
+	margin-left:7%;
+	padding-top:30%;
+}
+
+.p-class{
+	padding-top:15px;
+}
+
+.textbox{
+	width:300px;
+	height:30px;
+	font-size:16px;
+}
+
+.button-login{
+	margin-left:79%;
+	margin-top:3%;
+}
+
+.btn {
+	background: #02101a;
+	background-image: -webkit-linear-gradient(top, #02101a, #000000);
+	background-image: -moz-linear-gradient(top, #02101a, #000000);
+	background-image: -ms-linear-gradient(top, #02101a, #000000);
+	background-image: -o-linear-gradient(top, #02101a, #000000);
+	background-image: linear-gradient(to bottom, #02101a, #000000);
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	margin-top:5%;
+}
+
+.btn:hover {
+	text-decoration: none;
 }
